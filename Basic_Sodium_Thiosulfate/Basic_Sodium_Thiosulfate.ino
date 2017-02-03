@@ -196,5 +196,5 @@ void loop(void)
    advancedRead();
   //unifiedSensorAPIRead();
   
-  delay(250);
+  delay(10);
 }
